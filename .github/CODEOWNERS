@@ -1,0 +1,19 @@
+# LifyX Organization CODEOWNERS
+
+# Default owner for organization community files
+* @LifyX-Exchange
+
+# Organization profile
+/profile/ @LifyX-Exchange
+
+# Issue templates
+/.github/ISSUE_TEMPLATE/ @LifyX-Exchange
+
+# Pull request template
+/.github/PULL_REQUEST_TEMPLATE.md @LifyX-Exchange
+
+# Community health files
+SECURITY.md @LifyX-Exchange
+CONTRIBUTING.md @LifyX-Exchange
+CODE_OF_CONDUCT.md @LifyX-Exchange
+README.md @LifyX-Exchange
