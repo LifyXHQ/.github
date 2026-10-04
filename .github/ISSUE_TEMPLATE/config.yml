@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Security Vulnerability
+    url: mailto:security@lifyx.exchange
+    about: Report security vulnerabilities privately. Do not open a public issue.
+
+  - name: LifyX Support
+    url: mailto:support@lifyx.exchange
+    about: Contact LifyX support for account, platform or general assistance.
+
+  - name: LifyX Documentation
+    url: https://github.com/LifyXHQ/lifyx-docs
+    about: Review the official LifyX developer documentation before opening an issue.
