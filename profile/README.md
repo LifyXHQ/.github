@@ -19,11 +19,11 @@ Our mission is to deliver fast, scalable, self-custodial and privacy-focused tra
 
 ## LifyX Spot
 
-LifyX Spot delivers high-performance decentralized spot trading infrastructure designed for speed, scale and privacy.
+LifyX Spot delivers high-performance decentralized spot trading designed for speed, scale and privacy.
 
 ### Core Features
 
-- Sub-10ms matching engine
+- Sub-10ms matching
 - 250K+ transactions per second
 - ZK-proven trades
 - Private execution
@@ -31,19 +31,39 @@ LifyX Spot delivers high-performance decentralized spot trading infrastructure d
 - High-performance market data
 - API-ready trading infrastructure
 
+### Infrastructure
+
+LifyX Spot integrates KalqiX infrastructure to support high-performance spot trading, market data and execution capabilities.
+
 ## LifyX Perpetuals
 
-Access decentralized perpetual markets across crypto and global assets through a self-custodial trading experience.
+LifyX Perpetuals provides decentralized perpetual trading across crypto and global markets through a self-custodial trading experience.
 
 ### Core Features
 
 - Self-custodial trading
-- Crypto and global markets
 - Professional order book interface
 - Multi-chain connectivity
 - Advanced trading tools
 - Fast execution
+- Market data access
 - Developer integrations
+
+### Infrastructure
+
+LifyX Perpetuals integrates Orderly infrastructure to support perpetual markets, liquidity access, market data and trading functionality.
+
+## Infrastructure Providers
+
+LifyX integrates specialized infrastructure providers across its trading ecosystem.
+
+### KalqiX
+
+Integrated within LifyX Spot for high-performance spot trading infrastructure.
+
+### Orderly
+
+Integrated within LifyX Perpetuals for decentralized perpetual market infrastructure.
 
 ## Developer Resources
 
@@ -51,11 +71,11 @@ This GitHub organization contains public documentation, developer examples, util
 
 Developer resources are designed to support common workflows including:
 
-- Market data
-- Spot trading
-- Perpetual markets
+- Spot market data
+- Perpetual market data
 - Wallet connectivity
 - Trading integrations
+- Order book data
 - Network information
 - Token metadata
 - API examples
